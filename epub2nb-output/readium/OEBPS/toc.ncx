@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Mezi tebou a mnou</text>
+  </docTitle>
+  <docAuthor>
+    <text>Marek Hnila</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>KAPITOLA 1 Avers a revers</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_007.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>KAPITOLA 2 Marná snaha</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_008.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>KAPITOLA 3 Šmejd</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_009.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>KAPITOLA 4 Sen</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_010.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>KAPITOLA 5 Běžný pracovní den</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_011.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>KAPITOLA 6 Kávový rituál</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_012.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>KAPITOLA 7 Velká hra</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_013.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>KAPITOLA 8 Poznám, až bude čas odejít</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_014.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>KAPITOLA 9 Zasloužené první místo</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_015.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>KAPITOLA 10 Pratáta</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_016.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>KAPITOLA 11 Škola</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_017.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>KAPITOLA 12 Povědomý zmatek v mysli</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_018.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>KAPITOLA 13 Kamarádův kamarád</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_019.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>KAPITOLA 14 Sbohem, Darku. Vítej, Darku</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_020.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>KAPITOLA 15 Absurdity prvních kapitol</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_021.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>KAPITOLA 16 Mica</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_022.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>KAPITOLA 17 Pohovor</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_023.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>KAPITOLA 18 Naivně nejbližší mému srdci</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_024.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>KAPITOLA 19 Čekání na telefonát</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_025.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>KAPITOLA 20 Preventivní prohlídka</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_026.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>KAPITOLA 21 První den</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_027.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>KAPITOLA 22 Fotograf</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_028.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>KAPITOLA 23 Hela</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_029.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>KAPITOLA 24 Vražda</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_030.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>KAPITOLA 25 Večer se sanitáři</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_031.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navpoint26" playOrder="26">
+      <navLabel>
+        <text>KAPITOLA 26 Sobě o sobě</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_032.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navpoint27" playOrder="27">
+      <navLabel>
+        <text>KAPITOLA 27 Instituce přátelství</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_033.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navpoint28" playOrder="28">
+      <navLabel>
+        <text>KAPITOLA 28 Oslava</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_034.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navpoint29" playOrder="29">
+      <navLabel>
+        <text>KAPITOLA 29 Hranice</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_035.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navpoint30" playOrder="30">
+      <navLabel>
+        <text>KAPITOLA 30 Chvíle k smíchu a pláči</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_036.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navpoint31" playOrder="31">
+      <navLabel>
+        <text>KAPITOLA 31 Lidsky tragikomický</text>
+      </navLabel>
+      <content src="Text/mezi_tebou_a_mnou_037.xhtml#_idParaDest-31"/>
+    </navPoint>
+  </navMap>
+</ncx>
