@@ -1,0 +1,780 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Mezi tebou a mnou",
+  "author": "Marek Hnila",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hnila-mezi-tebou-a-mnou-ce28758",
+  "revision": "ce28758",
+  "readingOrder": [
+    "promo.html",
+    "mezi_tebou_a_mnou_004.html",
+    "mezi_tebou_a_mnou_005.html",
+    "mezi_tebou_a_mnou_006.html",
+    "mezi_tebou_a_mnou_007.html",
+    "mezi_tebou_a_mnou_008.html",
+    "mezi_tebou_a_mnou_009.html",
+    "mezi_tebou_a_mnou_010.html",
+    "mezi_tebou_a_mnou_011.html",
+    "mezi_tebou_a_mnou_012.html",
+    "mezi_tebou_a_mnou_013.html",
+    "mezi_tebou_a_mnou_014.html",
+    "mezi_tebou_a_mnou_015.html",
+    "mezi_tebou_a_mnou_016.html",
+    "mezi_tebou_a_mnou_017.html",
+    "mezi_tebou_a_mnou_018.html",
+    "mezi_tebou_a_mnou_019.html",
+    "mezi_tebou_a_mnou_020.html",
+    "mezi_tebou_a_mnou_021.html",
+    "mezi_tebou_a_mnou_022.html",
+    "mezi_tebou_a_mnou_023.html",
+    "mezi_tebou_a_mnou_024.html",
+    "mezi_tebou_a_mnou_025.html",
+    "mezi_tebou_a_mnou_026.html",
+    "mezi_tebou_a_mnou_027.html",
+    "mezi_tebou_a_mnou_028.html",
+    "mezi_tebou_a_mnou_029.html",
+    "mezi_tebou_a_mnou_030.html",
+    "mezi_tebou_a_mnou_031.html",
+    "mezi_tebou_a_mnou_032.html",
+    "mezi_tebou_a_mnou_033.html",
+    "mezi_tebou_a_mnou_034.html",
+    "mezi_tebou_a_mnou_035.html",
+    "mezi_tebou_a_mnou_036.html",
+    "mezi_tebou_a_mnou_037.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 30 2022 09:38:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661852311818
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "mezi_tebou_a_mnou_004.html",
+      "toc": []
+    },
+    {
+      "title": "Mezi tebou a mnou",
+      "file": "mezi_tebou_a_mnou_004.html",
+      "words": 88,
+      "chars": 568,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "mezi_tebou_a_mnou_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mezi tebou a mnou",
+      "file": "mezi_tebou_a_mnou_005.html",
+      "words": 155,
+      "chars": 964,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "mezi_tebou_a_mnou_004.html",
+      "next": "mezi_tebou_a_mnou_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mezi tebou a mnou",
+      "file": "mezi_tebou_a_mnou_006.html",
+      "words": 320,
+      "chars": 1800,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 3,
+      "prev": "mezi_tebou_a_mnou_005.html",
+      "next": "mezi_tebou_a_mnou_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 1 Avers a revers",
+      "file": "mezi_tebou_a_mnou_007.html",
+      "words": 1454,
+      "chars": 8623,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 4,
+      "prev": "mezi_tebou_a_mnou_006.html",
+      "next": "mezi_tebou_a_mnou_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 1 Avers a revers",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 2 Marná snaha",
+      "file": "mezi_tebou_a_mnou_008.html",
+      "words": 526,
+      "chars": 3044,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 5,
+      "prev": "mezi_tebou_a_mnou_007.html",
+      "next": "mezi_tebou_a_mnou_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 2 Marná snaha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 3 Šmejd",
+      "file": "mezi_tebou_a_mnou_009.html",
+      "words": 2645,
+      "chars": 15497,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 6,
+      "prev": "mezi_tebou_a_mnou_008.html",
+      "next": "mezi_tebou_a_mnou_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 3 Šmejd",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 4 Sen",
+      "file": "mezi_tebou_a_mnou_010.html",
+      "words": 912,
+      "chars": 5254,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 7,
+      "prev": "mezi_tebou_a_mnou_009.html",
+      "next": "mezi_tebou_a_mnou_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 4 Sen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 5 Běžný pracovní den",
+      "file": "mezi_tebou_a_mnou_011.html",
+      "words": 3846,
+      "chars": 22467,
+      "ideas": 135,
+      "role": "chapter",
+      "order": 8,
+      "prev": "mezi_tebou_a_mnou_010.html",
+      "next": "mezi_tebou_a_mnou_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 5 Běžný pracovní den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 6 Kávový rituál",
+      "file": "mezi_tebou_a_mnou_012.html",
+      "words": 1040,
+      "chars": 6025,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 9,
+      "prev": "mezi_tebou_a_mnou_011.html",
+      "next": "mezi_tebou_a_mnou_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 6 Kávový rituál",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 7 Velká hra",
+      "file": "mezi_tebou_a_mnou_013.html",
+      "words": 2995,
+      "chars": 17442,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 10,
+      "prev": "mezi_tebou_a_mnou_012.html",
+      "next": "mezi_tebou_a_mnou_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 7 Velká hra",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 8 Poznám, až bude čas odejít",
+      "file": "mezi_tebou_a_mnou_014.html",
+      "words": 1737,
+      "chars": 10494,
+      "ideas": 28,
+      "role": "chapter",
+      "order": 11,
+      "prev": "mezi_tebou_a_mnou_013.html",
+      "next": "mezi_tebou_a_mnou_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 8 Poznám, až bude čas odejít",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 9 Zasloužené první místo",
+      "file": "mezi_tebou_a_mnou_015.html",
+      "words": 1305,
+      "chars": 7699,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 12,
+      "prev": "mezi_tebou_a_mnou_014.html",
+      "next": "mezi_tebou_a_mnou_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 9 Zasloužené první místo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 10 Pratáta",
+      "file": "mezi_tebou_a_mnou_016.html",
+      "words": 2091,
+      "chars": 12117,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 13,
+      "prev": "mezi_tebou_a_mnou_015.html",
+      "next": "mezi_tebou_a_mnou_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 10 Pratáta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 11 Škola",
+      "file": "mezi_tebou_a_mnou_017.html",
+      "words": 1496,
+      "chars": 8636,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 14,
+      "prev": "mezi_tebou_a_mnou_016.html",
+      "next": "mezi_tebou_a_mnou_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 11 Škola",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 12 Povědomý zmatek v mysli",
+      "file": "mezi_tebou_a_mnou_018.html",
+      "words": 1438,
+      "chars": 8165,
+      "ideas": 50,
+      "role": "chapter",
+      "order": 15,
+      "prev": "mezi_tebou_a_mnou_017.html",
+      "next": "mezi_tebou_a_mnou_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 12 Povědomý zmatek v mysli",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 13 Kamarádův kamarád",
+      "file": "mezi_tebou_a_mnou_019.html",
+      "words": 689,
+      "chars": 4103,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 16,
+      "prev": "mezi_tebou_a_mnou_018.html",
+      "next": "mezi_tebou_a_mnou_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 13 Kamarádův kamarád",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 14 Sbohem, Darku. Vítej, Darku",
+      "file": "mezi_tebou_a_mnou_020.html",
+      "words": 3513,
+      "chars": 20616,
+      "ideas": 117,
+      "role": "chapter",
+      "order": 17,
+      "prev": "mezi_tebou_a_mnou_019.html",
+      "next": "mezi_tebou_a_mnou_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 14 Sbohem, Darku. Vítej, Darku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 15 Absurdity prvních kapitol",
+      "file": "mezi_tebou_a_mnou_021.html",
+      "words": 390,
+      "chars": 2190,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 18,
+      "prev": "mezi_tebou_a_mnou_020.html",
+      "next": "mezi_tebou_a_mnou_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 15 Absurdity prvních kapitol",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 16 Mica",
+      "file": "mezi_tebou_a_mnou_022.html",
+      "words": 1860,
+      "chars": 10703,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 19,
+      "prev": "mezi_tebou_a_mnou_021.html",
+      "next": "mezi_tebou_a_mnou_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 16 Mica",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 17 Pohovor",
+      "file": "mezi_tebou_a_mnou_023.html",
+      "words": 1913,
+      "chars": 11671,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 20,
+      "prev": "mezi_tebou_a_mnou_022.html",
+      "next": "mezi_tebou_a_mnou_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 17 Pohovor",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 18 Naivně nejbližší mému srdci",
+      "file": "mezi_tebou_a_mnou_024.html",
+      "words": 886,
+      "chars": 5248,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 21,
+      "prev": "mezi_tebou_a_mnou_023.html",
+      "next": "mezi_tebou_a_mnou_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 18 Naivně nejbližší mému srdci",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 19 Čekání na telefonát",
+      "file": "mezi_tebou_a_mnou_025.html",
+      "words": 535,
+      "chars": 3148,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 22,
+      "prev": "mezi_tebou_a_mnou_024.html",
+      "next": "mezi_tebou_a_mnou_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 19 Čekání na telefonát",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 20 Preventivní prohlídka",
+      "file": "mezi_tebou_a_mnou_026.html",
+      "words": 1048,
+      "chars": 6452,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 23,
+      "prev": "mezi_tebou_a_mnou_025.html",
+      "next": "mezi_tebou_a_mnou_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 20 Preventivní prohlídka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 21 První den",
+      "file": "mezi_tebou_a_mnou_027.html",
+      "words": 1039,
+      "chars": 6049,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 24,
+      "prev": "mezi_tebou_a_mnou_026.html",
+      "next": "mezi_tebou_a_mnou_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 21 První den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 22 Fotograf",
+      "file": "mezi_tebou_a_mnou_028.html",
+      "words": 399,
+      "chars": 2324,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 25,
+      "prev": "mezi_tebou_a_mnou_027.html",
+      "next": "mezi_tebou_a_mnou_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 22 Fotograf",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 23 Hela",
+      "file": "mezi_tebou_a_mnou_029.html",
+      "words": 422,
+      "chars": 2486,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 26,
+      "prev": "mezi_tebou_a_mnou_028.html",
+      "next": "mezi_tebou_a_mnou_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 23 Hela",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 24 Vražda",
+      "file": "mezi_tebou_a_mnou_030.html",
+      "words": 1360,
+      "chars": 8346,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 27,
+      "prev": "mezi_tebou_a_mnou_029.html",
+      "next": "mezi_tebou_a_mnou_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 24 Vražda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 25 Večer se sanitáři",
+      "file": "mezi_tebou_a_mnou_031.html",
+      "words": 2757,
+      "chars": 16062,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 28,
+      "prev": "mezi_tebou_a_mnou_030.html",
+      "next": "mezi_tebou_a_mnou_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 25 Večer se sanitáři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 26 Sobě o sobě",
+      "file": "mezi_tebou_a_mnou_032.html",
+      "words": 747,
+      "chars": 4308,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 29,
+      "prev": "mezi_tebou_a_mnou_031.html",
+      "next": "mezi_tebou_a_mnou_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 26 Sobě o sobě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 27 Instituce přátelství",
+      "file": "mezi_tebou_a_mnou_033.html",
+      "words": 1525,
+      "chars": 8726,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 30,
+      "prev": "mezi_tebou_a_mnou_032.html",
+      "next": "mezi_tebou_a_mnou_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 27 Instituce přátelství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 28 Oslava",
+      "file": "mezi_tebou_a_mnou_034.html",
+      "words": 1038,
+      "chars": 5941,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 31,
+      "prev": "mezi_tebou_a_mnou_033.html",
+      "next": "mezi_tebou_a_mnou_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 28 Oslava",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 29 Hranice",
+      "file": "mezi_tebou_a_mnou_035.html",
+      "words": 740,
+      "chars": 4312,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 32,
+      "prev": "mezi_tebou_a_mnou_034.html",
+      "next": "mezi_tebou_a_mnou_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 29 Hranice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 30 Chvíle k smíchu a pláči",
+      "file": "mezi_tebou_a_mnou_036.html",
+      "words": 646,
+      "chars": 3762,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 33,
+      "prev": "mezi_tebou_a_mnou_035.html",
+      "next": "mezi_tebou_a_mnou_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 30 Chvíle k smíchu a pláči",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KAPITOLA 31 Lidsky tragikomický",
+      "file": "mezi_tebou_a_mnou_037.html",
+      "words": 1398,
+      "chars": 8217,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 34,
+      "prev": "mezi_tebou_a_mnou_036.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KAPITOLA 31 Lidsky tragikomický",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 52,
+      "chars": 317,
+      "ideas": 10,
+      "role": "about",
+      "order": null,
+      "prev": "mezi_tebou_a_mnou_037.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 45012,
+      "chars": 263807,
+      "ideas": 1367
+    },
+    "chapters": {
+      "words": 44953,
+      "chars": 263459,
+      "ideas": 1354
+    }
+  }
+}
