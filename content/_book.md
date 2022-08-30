@@ -99,7 +99,7 @@ tocBase:
         title: KAPITOLA 13 Kamarádův kamarád
         hiddenTitle: false
       - link: mezi_tebou_a_mnou_020.html
-        title: KAPITOLA 14 Sbohem, Darku\. Vítej, Darku
+        title: KAPITOLA 14 Sbohem, Darku. Vítej, Darku
         hiddenTitle: false
       - link: mezi_tebou_a_mnou_021.html
         title: KAPITOLA 15 Absurdity prvních kapitol
