@@ -10,9 +10,10 @@ meta:
   author: Marek Hnila
   publisher: Městská knihovna v Praze
   modified: '2022-02-16T00:00:00.000Z'
-  isbn: 978-80-274-2178-7
+  isbn: 978-80-274-2808-3
   contentType: prose
   publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - promo.html
   - mezi_tebou_a_mnou_004.html
