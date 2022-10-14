@@ -7,9 +7,10 @@
       "author": "Marek Hnila",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-02-16T00:00:00.000Z",
-      "isbn": "978-80-274-2178-7",
+      "isbn": "978-80-274-2808-3",
       "contentType": "prose",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -826,6 +827,6 @@
       "user": "books-are-next",
       "repo": "hnila-mezi-tebou-a-mnou"
     },
-    "generatedAt": 1665415584039
+    "generatedAt": 1665773158704
   }
 }

@@ -5,10 +5,11 @@
   "title": "Mezi tebou a mnou",
   "author": "Marek Hnila",
   "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hnila-mezi-tebou-a-mnou-5d34b3f",
-  "revision": "5d34b3f",
+  "identifier": "hnila-mezi-tebou-a-mnou-701a77b",
+  "revision": "701a77b",
   "readingOrder": [
     "promo.html",
     "mezi_tebou_a_mnou_004.html",
@@ -48,8 +49,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:41:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416512913
+    "date": "Fri Oct 14 2022 18:47:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665773229803
   },
   "documents": [
     {
@@ -767,9 +768,9 @@
   ],
   "totals": {
     "all": {
-      "words": 45012,
-      "chars": 263808,
-      "ideas": 1367
+      "words": 45013,
+      "chars": 263816,
+      "ideas": 1368
     },
     "chapters": {
       "words": 44953,
