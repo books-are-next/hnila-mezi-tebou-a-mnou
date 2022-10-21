@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hnila-mezi-tebou-a-mnou-701a77b",
-  "revision": "701a77b",
+  "identifier": "hnila-mezi-tebou-a-mnou-4e08bc2",
+  "revision": "4e08bc2",
   "readingOrder": [
     "promo.html",
     "mezi_tebou_a_mnou_004.html",
@@ -49,8 +49,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 14 2022 18:47:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665773229803
+    "date": "Fri Oct 21 2022 11:34:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352068986
   },
   "documents": [
     {
